@@ -9,4 +9,5 @@ Type "help", "copyright", "credits" or "license" for more information.
 3
 4
 5
->>> 
+>>> person = {"Name":"Meier", "Vorname":"Michael", "Jahrgang":"1971"}
+aktueller_vorname=person["Vorname"]
