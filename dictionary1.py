@@ -49,4 +49,4 @@ KeyError: (1, 0)
 4
 5
 6
->>> 
+>>> person={"name":"Meier", "Vorname":"Michael"}
